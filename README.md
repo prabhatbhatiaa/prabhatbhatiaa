@@ -40,11 +40,11 @@
 
 <!-- trophies -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prabhat-codez&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=prabhat-codez&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,Followers,PullRequest">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prabhat-codez&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy.vercel.app/?username=prabhat-codez&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Stars">
  </div>
 
 <br />
