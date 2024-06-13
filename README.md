@@ -110,12 +110,12 @@
 
 <!-- let's have some fun -->
 
+
 ### <samp>🥂 Have some fun</samp>
 
 <br>
 
 <p align="center">
-<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
 <img src="./assets/gif/rickroll.gif" width="250" height="auto" />
 <img src="./assets/gif/rickroll.gif" width="250" height="auto" />
 </p>
