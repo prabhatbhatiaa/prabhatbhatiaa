@@ -89,7 +89,7 @@
 
 **<samp>Design</samp>**
 
-| <img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" />
+<img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" />
 
 <br />
 
@@ -101,10 +101,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=prabhat-codez&count_private=true&show_icons=true&theme=transparent" alt="Prabhat's Github Stats" width="66%">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat-codez&count_private=true&show_icons=true&theme=transparent" width="37%" alt="Prabhat's Top Languages">
+
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat-codez&count_private=true&show_icons=true&theme=transparent" width="37%" alt="Prabhat's Top Languages">
 
 <br />
 
