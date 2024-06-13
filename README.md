@@ -1,5 +1,5 @@
 <!-- index -->
-<img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
+<img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/prabhat-codez/count.svg" />
 
 <!-- introduction -->
 <h3 align="center">
@@ -81,18 +81,15 @@
 
 **<samp>Languages</samp>**
 
-| <img title="HTML" alt="HTML" width="40px" src="./assets/svg/lang/html.svg"> | <img title="CSS" alt="CSS" width="40px" src="./assets/svg/lang/css.svg"> | <img title="JS" alt="JS" width="40px" src="./assets/svg/lang/js.svg"> |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+<img title="HTML" alt="HTML" width="40px" src="./assets/svg/lang/html.svg"> <img title="CSS" alt="CSS" width="40px" src="./assets/svg/lang/css.svg"> <img title="JS" alt="JS" width="40px" src="./assets/svg/lang/js.svg"> 
 
 **<samp>Utilities</samp>**
 
-| <img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> | <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> | <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> | <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> | <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> | <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" /> |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+<img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" />
 
 **<samp>Design</samp>**
 
-| <img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> | <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" /> |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| <img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" />
 
 <br />
 
@@ -106,7 +103,6 @@
 
 </div>
 
-<img align="left" src="https://github-contributor-stats.vercel.app/api?username=prabhat-codez&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Prabhat's Github Contributor Stats" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat-codez&count_private=true&show_icons=true&theme=transparent" width="37%" alt="Prabhat's Top Languages">
 
