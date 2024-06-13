@@ -85,7 +85,7 @@
 
 **<samp>Utilities</samp>**
 
-<img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> | <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" />
+<img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" />
 
 **<samp>Design</samp>**
 
@@ -110,9 +110,9 @@
 
 <!-- let's have some fun -->
 
-
+<div align="center">
 ### <samp>🥂 Have some fun</samp>
-
+</div>
 <br>
 
 <p align="center">
