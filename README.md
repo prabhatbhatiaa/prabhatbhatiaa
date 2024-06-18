@@ -1,6 +1,3 @@
-<!-- index -->
-<img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/prabhat-codez/count.svg" />
-
 <!-- introduction -->
 <h3 align="center">
   <samp>
