@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prabhat Bhatia</h1>
 <h3 align="center">Aspiring Developer and Cyber Security Enthusiast</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **prabhatbhatia09@gmail.com**
-
-- ⚡ Fun fact **The Firefox logo isn't a fox. It's actually a red panda.**
+* 🌍  I'm based in Delhi, India
+* 🖥️  Check Out My Stuff on [Linkedin](http://linkedin.com/in/prabhatbhatiaa)
+* ✉️  Contact Me At [aprabhatbhatia09@gmail.com](mailto:prabhatbhatia09@gmail.com)
+* 🧠  I'm learning React Native for Mobile App Development
+* 🤝  I'm open to collaborating on Python, Nodejs and Web Development projects
+* ⚡  The Firefox logo isn't a fox. It's actually a red panda.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatbhatiaa&show_icons=true&locale=en" alt="prabhatbhatiaa" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatbhatiaa" alt="prabhatbhatiaa" /></a> </p>
+
 
