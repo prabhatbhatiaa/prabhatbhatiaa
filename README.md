@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Delhi, India
 * 🖥️  Check Out My Stuff on [Linkedin](http://linkedin.com/in/prabhatbhatiaa)
-* ✉️  Contact Me At [aprabhatbhatia09@gmail.com](mailto:prabhatbhatia09@gmail.com)
+* ✉️  Contact Me At [prabhatbhatia09@gmail.com](mailto:prabhatbhatia09@gmail.com)
 * 🧠  I'm learning React Native for Mobile App Development
 * 🤝  I'm open to collaborating on Python, Nodejs and Web Development projects
 * ⚡  The Firefox logo isn't a fox. It's actually a red panda.
@@ -23,5 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhatiaa&show_icons=true&locale=en&layout=compact" alt="prabhatbhatiaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatbhatiaa&show_icons=true&locale=en" alt="prabhatbhatiaa" /></p>
+
 
 
