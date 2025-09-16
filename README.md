@@ -1,165 +1,25 @@
-<!-- introduction -->
-<h3 align="center">
-  <samp>
-  &gt; Hi there, I am <a href="" target="_blank">Prabhat</a> 👋
-  </samp>
-</h3>
+<h1 align="center">Hi 👋, I'm Prabhat Bhatia</h1>
+<h3 align="center">Aspiring Developer and Cyber Security Enthusiast</h3>
 
-<h4>
-  <samp>
-  An Indian high school student and a self-taught developer with an aspiration for becoming a Software Developer. Having a positive attitude towards hard work and passionate about technology, learning and crafting something awesome everyday.
-  </samp>
-</h4>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatbhatiaa" alt="prabhatbhatiaa" /></a> </p>
 
-<br />
+- 🌱 I’m currently learning **React**
 
-<!-- hero -->
-<div align="center">
+- 📫 How to reach me **prabhatbhatia09@gmail.com**
 
-![image](https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png)
+- ⚡ Fun fact **The Firefox logo isn't a fox. It's actually a red panda.**
 
-</div>
-
-<br />
-
-<!-- streak -->
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat-codez&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="prabhat's streak" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deduhbruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deduhbruh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhatbhatiaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhatbhatiaa" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- trophy gif -->
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatbhatiaa&show_icons=true&locale=en&layout=compact" alt="prabhatbhatiaa" /></p>
 
-<!-- trophies -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prabhat-codez&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,Followers,PullRequest">
- </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatbhatiaa&show_icons=true&locale=en" alt="prabhatbhatiaa" /></p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prabhat-codez&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Stars">
- </div>
-
-<br />
-
-<!-- pinned repos -->
-
-### <samp>📌 Pinned</samp>
-
-<p align="center">
-<a href="https://github.com/prabhat-codez/prabhat-codez.github.io">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat-codez&repo=prabhat-codez.github.io&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/prabhat-codez/skyla">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat-codez&repo=skyla&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/prabhat-codez/prabhat-codez">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat-codezb&repo=prabhat-codez&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/prabhat-codez/CSS-Solarsystem">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat-codez&repo=CSS-Solarsystem&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<br />
-
-<!-- tech stacks -->
-
-### <samp>💻 Tech</samp>
-
-**<samp>Languages</samp>**
-
-<img title="HTML" alt="HTML" width="40px" src="./assets/svg/lang/html.svg"> <img title="CSS" alt="CSS" width="40px" src="./assets/svg/lang/css.svg"> <img title="JS" alt="JS" width="40px" src="./assets/svg/lang/js.svg"> 
-
-**<samp>Utilities</samp>**
-
-<img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" />
-
-**<samp>Design</samp>**
-
-<img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" />
-
-<br />
-
-<!-- stats -->
-
-### <samp>📊 Stats</samp>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhat-codez&count_private=true&show_icons=true&theme=transparent" alt="Prabhat's Github Stats" width="66%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat-codez&count_private=true&show_icons=true&theme=transparent" width="37%" alt="Prabhat's Top Languages">
-
-</div>
-
-<br />
-
-<!-- let's have some fun -->
-
-### <samp>🥂 Have some fun</samp>
-
-<br>
-
-<p align="center">
-<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
-<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
-<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
-</p>
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=transparent&border_color=0d1117)](https://open.spotify.com/)
-
-</div>
-
-<br />
-
-#### <samp>🌻 A good quote</samp>
-
-<div align="center">
-
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br />
-
-<!-- connect with me -->
-
-### <samp>🌐 Let's get connected</samp>
-
-<p align="center">
-  <a href="https://github.com/prabhat-codez" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
-  <a href="https://www.instagram.com/prabhatbhatiaa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
-   <a href="mailto:prabhatbhatia09@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-</p>
-
-<br />
-
-<!-- cat -->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
-
-<!-- footer -->
-<div align="center">
-  <samp>
-    <h3 align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding 👨‍💻"
-    </h3>
-  </samp>
-</div>
-
-<br />
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatbhatiaa" alt="prabhatbhatiaa" /></a> </p>
