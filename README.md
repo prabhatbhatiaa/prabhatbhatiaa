@@ -4,7 +4,7 @@
 * 🌍  I'm based in Delhi, India
 * 🖥️  Check Out My Stuff on [Linkedin](http://linkedin.com/in/prabhatbhatia)
 * ✉️  Contact Me At [prabhatbhatia09@gmail.com](mailto:prabhatbhatia09@gmail.com)
-* 🧠  I'm currently building [Pravah](https://pravah-proj.vercel.app/)
+* 🧠  I'm currently building [Credlytic](/) and [Pravah](https://pravah-proj.vercel.app/) 
 * 🤝  I'm open to collaborating on Python, Nodejs and Web Development projects
 * ⚡  The Firefox logo isn't a fox. It's actually a red panda.
   
