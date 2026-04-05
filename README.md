@@ -48,5 +48,10 @@
 
 -----------------------------------
 
+<div align="center">
+
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=prabhatbhatiaa&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
+
 <img src="https://github-streak-stats-ruby.vercel.app?user=prabhatbhatiaa&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+
+</div>
