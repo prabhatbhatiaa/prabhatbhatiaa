@@ -36,8 +36,8 @@
 | Product | Description| Tech | Stars |
 | - | - | - | - |
 | **[Credlytic](https://github.com/prabhatbhatiaa/Credlytic_v1)** | Web3-based blockchain certification system for universities | Blockchain | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Credlytic_v1?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/Credlytic_v1) |
-| **[OutbreakIQ](https://github.com/prabhatbhatiaa/OutbreakIQ)** | Disease Outbreak Early Warning System for India | AI/DS | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/OutbreakIQ?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/OutbreakIQ) |
-| **[Pravah](https://github.com/prabhatbhatiaa/Pravah)** | Data Driven Flood Risk Monitoring & Management System | Data Science | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Pravah?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/Pravah) 
+| **[Pravah](https://github.com/prabhatbhatiaa/Pravah)** | Data Driven Flood Risk Monitoring & Management System | Data Science | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Pravah?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/Pravah) |
+| **[Skyla](https://github.com/prabhatbhatiaa/Skyla)** | Multi purpose Discord bot built on Discord.js (Depreciated) | Discord.js | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Skyla?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/SkylaQ) |
 
 
 
