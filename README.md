@@ -8,7 +8,7 @@
 </p>
 
 [![Email](https://img.shields.io/badge/Email-prabhatbhatia09@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:prabhatbhatia09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-prabhatbhatia.netlify.app-000000?style=flat-square&logo=safari)](https://prabhatbhatia.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prabhatbhatia.vercel.app-000000?style=flat-square&logo=safari)](https://prabhatbhatia.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhatbhatia-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prabhatbhatia/)
 [![Twitter(X)](https://img.shields.io/badge/Twitter-@deduhbruh-000000?style=flat-square&logo=x)](https://www.x.com/deduhbruh)
 
