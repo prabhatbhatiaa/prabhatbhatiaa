@@ -23,13 +23,13 @@
 
 ## About Me
 
-- 🤖 **Student:** Exploring the tech world and navigating through.
-- ⚙️ **Building:** Projects in various fields 
-- 🔏 **Exploring:** Cybersecurity, Blockchain, Data Science
-- 🎯 **2026 mission:** completing projects and acquire an internship.
-- 🤫 **Philosophy:** Stay curious. Build relentlessly. Improve every day.
-- ⚡ **Quote:** The Firefox logo isn't a fox. It's actually a red panda.
-- 🤝 **Open To:** Python, Nodejs and Web Development projects
+- **Student:** Exploring the tech world and navigating through.
+- **Building:** Projects in various fields 
+- **Exploring:** Cybersecurity, Blockchain, Data Science
+- **2026 mission:** completing projects and acquire an internship.
+- **Philosophy:** Stay curious. Build relentlessly. Improve every day.
+- **Quote:** The Firefox logo isn't a fox. It's actually a red panda.
+- **Open To:** Python, Nodejs and Web Development projects
 
 ## Current Projects
 
