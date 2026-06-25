@@ -13,13 +13,12 @@
 [![Twitter(X)](https://img.shields.io/badge/Twitter-@deduhbruh-000000?style=flat-square&logo=x)](https://www.x.com/deduhbruh)
 
 -----
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=prabhatbhatiaa&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
+<img src="https://github-streak-stats-ruby.vercel.app?user=prabhatbhatiaa&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+</div>
 
-<!--
-**Self-taught developer building projects based on Blockchain, Data Science and much more.**
-
-- 🌱 **Founder** @ []() 
-- 💜 **CS Engineer** @ []()
--->
+---
 
 ## About Me
 
@@ -46,12 +45,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,cpp,react,mongodb,mysql,arduino,linux,gcp,git,threejs" />
 </p>
 
------------------------------------
 
-<div align="center">
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=prabhatbhatiaa&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
-
-<img src="https://github-streak-stats-ruby.vercel.app?user=prabhatbhatiaa&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
-
-</div>
+## Problem Solving
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prabhatbhatia?theme=dark&font=Inter&ext=activity" width="47%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&disable_animations=true&show_icons=true&force_username=true" width="49.4%" />
+</p>
