@@ -50,8 +50,3 @@
   <img src="https://leetcard.jacoblin.cool/prabhatbhatia?theme=dark&font=Inter&ext=activity" width="47%" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&border_color=#0000000" width="49.5%" />
 </p>
-
-## Something Fun 
-<div align="center">
-<img src="assets/shooter.gif" width="100%"/>
-</div>
