@@ -2,10 +2,9 @@
 
 -----
 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</div>
 
 [![Email](https://img.shields.io/badge/Email-prabhatbhatia09@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:prabhatbhatia09@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-prabhat.codes-000000?style=flat-square&logo=safari)](https://prabhat.codes/)
@@ -15,7 +14,7 @@
 -----
 <div align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=prabhatbhatiaa&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&theme=gotham&hide_border=true&include_all_commits=true" width="49%" alt="Streak"/>
 </div>
 
 ---
@@ -51,3 +50,8 @@
   <img src="https://leetcard.jacoblin.cool/prabhatbhatia?theme=dark&font=Inter&ext=activity" width="47%" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&border_color=#0000000" width="49.5%" />
 </p>
+
+## Something Fun 
+<div align="center">
+<img src="assets/shooter.gif" width="100%"/>
+</div>
