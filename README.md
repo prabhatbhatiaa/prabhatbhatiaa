@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Prabhat Bhatia </h2>
+<h2>Hi, I'm Prabhat Bhatia </h2>
 
 
 -----
