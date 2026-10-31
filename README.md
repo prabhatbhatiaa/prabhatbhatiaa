@@ -21,7 +21,7 @@
 ## About Me
 
 - **Student:** Exploring the tech world and navigating through.
-- **Building:** Prysm; Authentra; Kex
+- **Building:** Prysm; Authentra; Kex; SevaSetu
 - **Exploring:** Cybersecurity, Blockchain, Data Science
 - **Philosophy:** Stay curious. Build relentlessly. Improve every day.
 - **Quote:** The Firefox logo isn't a fox. It's actually a red panda.
