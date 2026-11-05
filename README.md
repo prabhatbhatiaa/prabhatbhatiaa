@@ -1,50 +1,123 @@
-<h2>Hi, I'm Prabhat Bhatia </h2>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+<img src="assets/banner.svg"/>
 </div>
 
-[![Email](https://img.shields.io/badge/Email-prabhatbhatia09@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:prabhatbhatia09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-prabhat.codes-000000?style=flat-square&logo=safari)](https://prabhat.codes/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhatbhatia-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prabhatbhatia/)
-[![Twitter(X)](https://img.shields.io/badge/Twitter-@deduhbruh-000000?style=flat-square&logo=x)](https://www.x.com/deduhbruh)
-
------
-
 <div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=prabhatbhatiaa&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&theme=gotham&hide_border=true&include_all_commits=true" width="49%" alt="Streak"/>
+  
+[![Email](https://img.shields.io/badge/Email-prabhatbhatia09@gmail.com-008000?style=flat-square&logo=Microsoft-outlook)](mailto:prabhatbhatia09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prabhat.codes-008000?style=flat-square&logo=safari)](https://prabhat.codes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhatbhatia-008000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prabhatbhatia/)
+[![Twitter(X)](https://img.shields.io/badge/Twitter-@deduhbruh-008000?style=flat-square&logo=x)](https://www.x.com/deduhbruh)
+
 </div>
 
 ---
 
-## About Me
+## whoami
 
-- **Student:** Exploring the tech world and navigating through.
-- **Building:** Prysm; Authentra; Kex; SevaSetu
-- **Exploring:** Cybersecurity, Blockchain, Data Science
-- **Philosophy:** Stay curious. Build relentlessly. Improve every day.
-- **Quote:** The Firefox logo isn't a fox. It's actually a red panda.
-- **Open To:** Python, Nodejs and Web Development projects
+```bash
+prabhat@arch:~$ cat profile.json
+```
 
-## Current Projects
+```json
+{
+  "name":     "Prabhat Bhatia",
+  "handle":   "prabhatbhatiaa",
+  "role":     "Student Majoring In Cybersecurity",
+  "location": "New Delhi, India",
+  "focus":    ["Cybersecurity", "Blockchain", "Data Science"],
+  "building": ["Prysm", "Authentra", "Kex", "SevaSetu"],
+  "stack":    ["Python", "Node.js", "C++", "TypeScript", "React"],
+  "open_to":  ["Python projects", "Node.js projects", "Web development"],
+  "motto":    "Stay curious. Build relentlessly. Improve every day.",
+  "fun_fact": "Firefox's logo is a red panda, not a fox."
+}
+```
 
-| Product | Description| Tech | Stars |
-| - | - | - | - |
-| **[Credlytic](https://github.com/prabhatbhatiaa/Credlytic_v1)** | Web3-based blockchain certification system for universities | Blockchain | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Credlytic_v1?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/Credlytic_v1) |
-| **[Pravah](https://github.com/prabhatbhatiaa/Pravah)** | Data Driven Flood Risk Monitoring & Management System | Data Science | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Pravah?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/Pravah) |
-| **[Skyla](https://github.com/prabhatbhatiaa/Skyla)** | Multi purpose Discord bot built on Discord.js (Depreciated) | Discord.js | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Skyla?logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/prabhatbhatiaa/Skyla) |
+<br/>
 
+## projects
 
+```bash
+prabhat@kali:~$ ls -la ./projects
+```
 
-## Languages & Tools
+<div align="center">
+
+| Project | Description | Domain | Tech | Stars |
+| :--| :-- | :-- | :-- | :-: |
+| **[Credlytic](https://github.com/prabhatbhatiaa/Credlytic_v1)** | Tamper-proof academic certificates as NFTs on Aptos, with portals for universities and students | Blockchain | HTML · CSS · JS · Aptos SDK| [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Credlytic_v1?logo=github&labelColor=0d1117&color=00ff41&style=flat-square)](https://github.com/prabhatbhatiaa/Credlytic_v1) |
+| **[Authentra](https://github.com/prabhatbhatiaa/Authentra)** | Blockchain-based platform for identity, access control and digital asset management | Blockchain · RBAC | MERN · Aptos SDK | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Authentra?logo=github&labelColor=0d1117&color=00ff41&style=flat-square)](https://github.com/prabhatbhatiaa/Authentra) |
+| **[Kex](https://github.com/prabhatbhatiaa/Kex)** | RESTful API for cryptographic tasks | Security | JavaScript | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Kex?logo=github&labelColor=0d1117&color=00ff41&style=flat-square)](https://github.com/prabhatbhatiaa/Kex) |
+| **[Skyla](https://github.com/prabhatbhatiaa/Skyla)** | Multi-purpose Discord bot *(deprecated)* | Discord.js | JavaScript | [![stars](https://img.shields.io/github/stars/prabhatbhatiaa/Skyla?logo=github&labelColor=0d1117&color=00ff41&style=flat-square)](https://github.com/prabhatbhatiaa/Skyla) |
+
+</div>
+<br/>
+
+## arsenal
+
+```bash
+prabhat@kali:~$ ls /opt/tools
+```
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,cpp,react,mongodb,mysql,arduino,linux,gcp,git,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,java,rust,arduino,linux,gcp,aws,git" />
 </p>
 
+<details>
+<summary><code>$ man tools</code> &nbsp;·&nbsp; full overview</summary>
+<br/>
+<table>
+<tr>
+<td width="24%" align="center"><code>languages</code></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,rust&theme=dark"  alt="languages"/></td>
+</tr>
+<tr>
+<td align="center"><code>mern</code></td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,threejs&theme=dark" alt="web"/></td>
+</tr>
+<tr>
+<td align="center"><code>data</code></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="data"/></td>
+</tr>
+<tr>
+<td align="center"><code>systems</code></td>
+<td><img src="https://skillicons.dev/icons?i=linux,git,github,gcp,arduino&theme=dark" alt="systems"/></td>
+</tr>
+</table>
 
-## Problem Solving
+</details>
+<!--
+  Add the security tools you actually use (uncomment & edit):
+  <img src="https://img.shields.io/badge/Kali_Linux-00ff41?style=flat-square&logo=kalilinux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Wireshark-00ff41?style=flat-square&logo=wireshark&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-00ff41?style=flat-square&logo=portswigger&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Nmap-00ff41?style=flat-square&labelColor=0d1117"/>
+-->
+
+<br/>
+
+## telemetry
+
+```bash
+prabhat@kali:~$ ./github_stats --live
+```
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=1f6f3a&border_radius=4" width="48%" alt="Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&background=0d1117&border=1f6f3a&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=4" width="51%" alt="Streak"/>
+</div>
+
+
+<br/>
+
+## problem solving
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/prabhatbhatia?theme=dark&font=Inter&ext=activity" width="47%" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&border_color=#0000000" width="49.5%" />
 </p>
+
+---
+
+<div align="center">
+<img src="assets/footer.svg"/>
+</div>
