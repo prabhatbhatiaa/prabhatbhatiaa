@@ -110,7 +110,18 @@ prabhat@kali:~$ ./github_stats --live
 prabhat@kali:~$ ./solve --platform leetcode,codeforces
 ```
 
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=dark&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=light&hide_border=true"> <img src="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=light&hide_border=true" alt="LeetCode" width="47.1%"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&hide_border=true&border_color=#0000000""> <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&hide_border=true&theme=light&border_color=#0000000""> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&hide_border=true&border_color=#0000000"" alt="Codeforces" width="49.5%"/> </picture> </p>
+<p align="center"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=dark"> 
+<source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=light"> 
+<img src="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=light" alt="LeetCode" width="47%"/> 
+</picture> 
+
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&border_color=#0000000"> 
+<source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia"> 
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia" alt="Codeforces" width="49.5%"/> </picture> 
+</p>
 
 ---
 
