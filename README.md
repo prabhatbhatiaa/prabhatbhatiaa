@@ -1,7 +1,7 @@
-<div align="center">
-<img src="assets/banner.svg"/>
-</div>
-
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"> <img src="assets/banner-light.svg" alt="Prabhat Bhatia" width="100%"/> </picture> </div>
+  
+<p></p>
+  
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-prabhatbhatia09@gmail.com-008000?style=flat-square&logo=Microsoft-outlook)](mailto:prabhatbhatia09@gmail.com)
@@ -101,23 +101,18 @@ prabhat@kali:~$ ls /opt/tools
 ```bash
 prabhat@kali:~$ ./github_stats --live
 ```
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=1f6f3a&border_radius=4" width="48%" alt="Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&background=0d1117&border=1f6f3a&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=4" width="51%" alt="Streak"/>
-</div>
-
-
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60&border_radius=4&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=1f6f3a"> <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60&border_radius=4&bg_color=f6f8fa&title_color=087a38&text_color=24292f&icon_color=087a38&ring_color=087a38&border_color=b7dfc4"> <img src="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60&border_radius=4&bg_color=f6f8fa&title_color=087a38&text_color=24292f&icon_color=087a38&ring_color=087a38&border_color=b7dfc4" alt="GitHub stats" width="48%"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&border_radius=4&background=0d1117&border=1f6f3a&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e"> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&border_radius=4&background=f6f8fa&border=b7dfc4&stroke=b7dfc4&ring=087a38&fire=087a38&currStreakNum=087a38&currStreakLabel=087a38&sideNums=24292f&sideLabels=57606a&dates=57606a"> <img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&border_radius=4&background=f6f8fa&border=b7dfc4&stroke=b7dfc4&ring=087a38&fire=087a38&currStreakNum=087a38&currStreakLabel=087a38&sideNums=24292f&sideLabels=57606a&dates=57606a" alt="GitHub streak" width="51%"/> </picture> </div> <br/>
 <br/>
 
 ## problem solving
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/prabhatbhatia?theme=dark&font=Inter&ext=activity" width="47%" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark&border_color=#0000000" width="49.5%" />
-</p>
+
+```bash
+prabhat@kali:~$ ./solve --platform leetcode,codeforces
+```
+
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=light"> <img src="https://leetcard.jacoblin.cool/prabhatbhatia?font=Inter&ext=activity&theme=light" alt="LeetCode" width="47.1%"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia&theme=dark"> <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia"> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia" alt="Codeforces" width="49.5%"/> </picture> </p>
 
 ---
 
-<div align="center">
-<img src="assets/footer.svg"/>
-</div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"> <img src="assets/footer-light.svg" alt="Stay curious. Build relentlessly. Improve every day." width="100%"/> </picture> </div>
