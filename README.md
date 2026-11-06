@@ -104,7 +104,7 @@ prabhat@kali:~$ ./github_stats --live
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=1f6f3a&border_radius=4" width="48%" alt="Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&background=0d1117&border=1f6f3a&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=4" width="51%" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&background=0d1117&border=1f6f3a&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=4" width="51%" alt="Streak"/>
 </div>
 
 
