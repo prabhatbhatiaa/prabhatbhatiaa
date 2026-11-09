@@ -96,7 +96,7 @@ prabhat@arch:~$ ls /opt/tools
 
 <br/>
 
-## telemetry
+## telementry
 
 ```bash
 prabhat@arch:~$ ./github_stats --live
