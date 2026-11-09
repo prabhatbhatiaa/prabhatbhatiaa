@@ -39,7 +39,7 @@ prabhat@arch:~$ cat profile.json
 ## projects
 
 ```bash
-prabhat@kali:~$ ls -la ./projects
+prabhat@arch:~$ ls -la ./projects
 ```
 
 <div align="center">
@@ -57,7 +57,7 @@ prabhat@kali:~$ ls -la ./projects
 ## arsenal
 
 ```bash
-prabhat@kali:~$ ls /opt/tools
+prabhat@arch:~$ ls /opt/tools
 ```
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,java,rust,arduino,linux,gcp,aws,git" />
@@ -99,7 +99,7 @@ prabhat@kali:~$ ls /opt/tools
 ## telemetry
 
 ```bash
-prabhat@kali:~$ ./github_stats --live
+prabhat@arch:~$ ./github_stats --live
 ```
 
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&cache_seconds=60&border_radius=4&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=1f6f3a"> <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&cache_seconds=60&border_radius=4&theme=shadow_green"> <img src="https://github-stats-extended.vercel.app/api?username=prabhatbhatiaa&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&cache_seconds=60&border_radius=4&theme=shadow_green" alt="GitHub stats" width="48%"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&border_radius=4&background=0d1117&border=1f6f3a&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e"> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&border_radius=4&background=f6f8fa&border=b7dfc4&stroke=b7dfc4&ring=087a38&fire=087a38&currStreakNum=087a38&currStreakLabel=087a38&sideNums=24292f&sideLabels=57606a&dates=57606a"> <img src="https://streak-stats.demolab.com?user=prabhatbhatiaa&hide_border=true&border_radius=4&background=f6f8fa&border=b7dfc4&stroke=b7dfc4&ring=087a38&fire=087a38&currStreakNum=087a38&currStreakLabel=087a38&sideNums=24292f&sideLabels=57606a&dates=57606a" alt="GitHub streak" width="51%"/> </picture> </div> <br/>
@@ -107,7 +107,7 @@ prabhat@kali:~$ ./github_stats --live
 ## problem solving
 
 ```bash
-prabhat@kali:~$ ./solve --platform leetcode,codeforces
+prabhat@arch:~$ ./solve --platform leetcode,codeforces
 ```
 
 <p align="center"> 
