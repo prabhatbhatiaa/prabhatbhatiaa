@@ -28,7 +28,6 @@ prabhat@arch:~$ cat profile.json
   "focus":    ["Cybersecurity", "Blockchain", "Data Science"],
   "building": ["Prysm", "Authentra", "Kex", "SevaSetu"],
   "stack":    ["Python", "Node.js", "C++", "TypeScript", "React"],
-  "open_to":  ["Python projects", "Node.js projects", "Web development"],
   "motto":    "Stay curious. Build relentlessly. Improve every day.",
   "fun_fact": "Firefox's logo is a red panda, not a fox."
 }
