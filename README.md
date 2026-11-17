@@ -3,12 +3,10 @@
 <p></p>
   
 <div align="center">
-  
 [![Email](https://img.shields.io/badge/Email-prabhatbhatia09@gmail.com-008000?style=flat-square&logo=Microsoft-outlook)](mailto:prabhatbhatia09@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-prabhat.codes-008000?style=flat-square&logo=safari)](https://prabhat.codes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhatbhatia-008000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prabhatbhatia/)
 [![Twitter(X)](https://img.shields.io/badge/Twitter-@deduhbruh-008000?style=flat-square&logo=x)](https://www.x.com/deduhbruh)
-
 </div>
 
 ---
