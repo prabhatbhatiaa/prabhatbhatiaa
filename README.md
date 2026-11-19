@@ -22,7 +22,6 @@ prabhat@arch:~$ cat profile.json
 ```json
 {
   "name":     "Prabhat Bhatia",
-  "handle":   "prabhatbhatiaa",
   "role":     "Student Majoring In Cybersecurity",
   "location": "New Delhi, India",
   "focus":    ["Cybersecurity", "Blockchain", "Data Science"],
